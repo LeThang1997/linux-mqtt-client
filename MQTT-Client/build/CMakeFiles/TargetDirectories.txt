@@ -1,0 +1,9 @@
+/media/thang/DATA/VNCProject/AICAM/Dev/MQTT/Linux/MQTT-Client/build/CMakeFiles/rebuild_cache.dir
+/media/thang/DATA/VNCProject/AICAM/Dev/MQTT/Linux/MQTT-Client/build/CMakeFiles/edit_cache.dir
+/media/thang/DATA/VNCProject/AICAM/Dev/MQTT/Linux/MQTT-Client/build/CMakeFiles/Sha1Test.dir
+/media/thang/DATA/VNCProject/AICAM/Dev/MQTT/Linux/MQTT-Client/build/CMakeFiles/MQTTVersion.dir
+/media/thang/DATA/VNCProject/AICAM/Dev/MQTT/Linux/MQTT-Client/build/CMakeFiles/paho-mqtt.dir
+/media/thang/DATA/VNCProject/AICAM/Dev/MQTT/Linux/MQTT-Client/build/CMakeFiles/publish-hehe.dir
+/media/thang/DATA/VNCProject/AICAM/Dev/MQTT/Linux/MQTT-Client/build/CMakeFiles/common_obj.dir
+/media/thang/DATA/VNCProject/AICAM/Dev/MQTT/Linux/MQTT-Client/build/CMakeFiles/subscribe-hehe.dir
+/media/thang/DATA/VNCProject/AICAM/Dev/MQTT/Linux/MQTT-Client/build/CMakeFiles/Base64Test.dir

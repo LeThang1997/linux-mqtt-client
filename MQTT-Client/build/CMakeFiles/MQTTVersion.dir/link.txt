@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/MQTTVersion.dir/MQTTVersion.c.o  -o MQTTVersion -Wl,-rpath,/media/thang/DATA/VNCProject/AICAM/Dev/MQTT/Linux/MQTT-Client/build libpaho-mqtt.so.SOVERSION -lc -ldl -lpthread 

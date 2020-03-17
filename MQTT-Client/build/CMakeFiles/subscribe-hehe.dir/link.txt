@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/subscribe-hehe.dir/MQTTClient_subscribe.c.o  -o subscribe-hehe -Wl,-rpath,/media/thang/DATA/VNCProject/AICAM/Dev/MQTT/Linux/MQTT-Client/build libpaho-mqtt.so.SOVERSION -lc -ldl -lpthread 
